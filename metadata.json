@@ -1,0 +1,6 @@
+{
+  "name": "Teen Yêu Biển Đảo 4.0",
+  "description": "Nền tảng học tập trực tuyến mở về biển đảo quê hương dành cho học sinh THCS (Lớp 6-9) với video bài giảng, trắc nghiệm tương tác và mô phỏng STEM.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
